@@ -1,0 +1,1 @@
+Click on your profile picture in the top-right corner. From the drop-down menu, select 'Your profile'. Once on your profile page, the link in your browser's address bar is your GitHub profile link. It will be in the format of (http://github.com/username).

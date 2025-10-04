@@ -1,0 +1,1 @@
+GitHub is used by developers and teams for collaborative code development, allowing them to store, manage, and share code through a web-based platform that uses Git for version control. It facilitates features like code review, bug tracking, project management, and the hosting of open-source projects, making it a central hub for teams to work together on software from anywhere
